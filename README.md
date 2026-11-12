@@ -58,7 +58,5 @@ ansible-playbook -i inventory.ini playbook.yml
 
 ## Evidencia de ejecución
 
-Agregar aquí una captura de pantalla de la ejecución exitosa del Playbook.
-
 ![Contenedores Docker](evidencias/Playbook.png)
 ![Contenedores Docker](evidencias/Playbook2.png)
